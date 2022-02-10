@@ -1,0 +1,5 @@
+2019 Capital One Breach
+
+Capital One employee, Paige Thompson, gained access to Social Security Numbers, Canadian Social Insurance numbers, bank account numbers, as well as individuals' names, addresses, credit scores, credit limits, balances, and more. Her motivations seems to be wildly unclear. She made zero effort to hide the fact that she illegally obtained the info. She posted the info on her GitHub using her real, full name. She also posted on social media and on a Slack channel that she had the information and wanted to share it. Not sell it- just share it. 
+
+She was able to obtain the info by exploiting a misconfigured web application firewall. Presumably, Capital One has now correctlly configured their firewall. 
